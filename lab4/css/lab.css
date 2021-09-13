@@ -1,0 +1,12 @@
+body {
+  color:black;
+}
+
+p {
+  color: pink;
+}
+
+span {
+  color: aqua
+  letter-spacing: 2px;
+}
