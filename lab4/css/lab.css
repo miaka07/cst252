@@ -1,5 +1,6 @@
 body {
-  color:black;
+  background-color:black;
+  font-family: 'Nunito', monospace;
 }
 
 p {
@@ -7,6 +8,6 @@ p {
 }
 
 span {
-  color: aqua
+  color: aqua;
   letter-spacing: 2px;
 }
