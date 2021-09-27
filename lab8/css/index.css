@@ -1,0 +1,17 @@
+body {
+  background-color: #878D99;
+  font-family: 'Nunito', monospace;
+}
+
+p {
+  color: pink;
+}
+
+span {
+  color: rgb(181, 250, 255);
+  letter-spacing: 2px;
+}
+
+h1, h2, h3 {
+  color: #A7DCFF;
+}
