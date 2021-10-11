@@ -3,14 +3,11 @@
   Created: 10.11.2021
 */
 
+// create a button element in div output
+$("#output").append("<button id=btn>CLICK ME!")
 
-$(document).ready(function() {
-    $('#output').append(
-        $(document.createElement('input')).prop({
-            type: 'button',
-            id: 'Clicky',
-            value: 'Clicky',
-            className: 'btn'
-        })
-    );
+//restyle the button to a nice green and add event alert
+$("#btn").click (function () {
+  $("#btn").css("background-color", "#bafff5");
+  alert("YOU DID IT!")
 });
