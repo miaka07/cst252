@@ -8,10 +8,15 @@ p {
 }
 
 span {
+  font-family: 'Harry Potter', sans-serif;
   color: rgb(181, 250, 255);
   letter-spacing: 2px;
 }
 
 h1, h2, h3 {
   color: #A7DCFF;
+}
+
+p.hw {
+    font-family: 'Harry Potter', sans-serif;
 }
